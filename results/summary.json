@@ -1,0 +1,17 @@
+{
+  "tests": {
+    "wildfire_acreage": {
+      "verdict": "MARGINAL",
+      "n_positive": 116310,
+      "delta_b": 0.027357547567177325,
+      "mad": 0.007373298325758212,
+      "chi2_p": 0.0,
+      "timestamp": "2026-02-11T21:22:42.449753"
+    }
+  },
+  "last_updated": "2026-02-11T21:22:42.450089",
+  "total_tests": 1,
+  "verdicts": {
+    "MARGINAL": 1
+  }
+}
